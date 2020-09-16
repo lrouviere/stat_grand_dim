@@ -2,7 +2,7 @@
 title: Modèle linéaire en grande dimension
 ---
 
-Ce cours, d'un niveau M2, propose quelques stratégies pour appréhender le problème de la `grande dimension` dans le modèle linéaire. Les thèmes suivants seront abordés :
+Ce cours, d'un niveau M22, propose quelques stratégies pour appréhender le problème de la `grande dimension` dans le modèle linéaire. Les thèmes suivants seront abordés :
 
 - Présentation du `fléau de la dimension`
 - `Régression sur composantes` : présentation des algorithmes PCR et PLS ;
