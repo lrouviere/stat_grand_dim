@@ -6,7 +6,7 @@ Ce cours, d'un niveau M2, propose quelques stratégies pour appréhender le prob
 
 - Présentation du `fléau de la dimension`
 - `Régression sur composantes` : présentation des algorithmes PCR et PLS ;
-- `Régressions pénalisées`: régularisation à l’aide de pénalités de type Ridge/Lasso
+- `Régressions pénalisées` : régularisation à l’aide de pénalités de type Ridge/Lasso
 - `Modèle additif` : conservation de la structure additive du modèle linéaire mais modélisation non paramétrique des composantes.
 
 ### Documents de cours
