@@ -29,6 +29,8 @@ Ce cours, d'un niveau M2, propose quelques stratégies pour appréhender le prob
 
 - [sujets](projet2020.pdf)
 
+  * [Quelques diapos sur le biclustering](pres_biclust.pdf)
+
 
 <!---
 ### Exercices, notebook
