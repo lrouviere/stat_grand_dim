@@ -24,13 +24,13 @@ Ce cours, d'un niveau M2, propose quelques stratégies pour appréhender le prob
 - [panne.txt](panne.txt)
 - [signal.csv](signal.csv)
 
-
+<!---
 ### Projet 2020-2021
 
 - [sujets](projet2020.pdf)
 
   * [Quelques diapos sur le biclustering](pres_biclust.pdf)
-
+--->
 
 <!---
 ### Exercices, notebook
